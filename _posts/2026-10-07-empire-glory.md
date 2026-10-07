@@ -2,7 +2,7 @@
 layout:     post
 title:      帝国最后的荣耀
 subtitle:   大明1592·抗日援朝
-date:       2019-10-07
+date:       2026-10-07
 author:     icecube
 header-img: img/bluelinux.jpg
 catalog: true
@@ -18,7 +18,7 @@ tags:
 
 ---
 
-![完整时间线](https://raw.githubusercontent.com/l3b2w1-books/l3b2w1-books.github.io/main/img/2026-10-07-empire-glory.svg)
+[完整时间线](https://raw.githubusercontent.com/l3b2w1-books/l3b2w1-books.github.io/main/img/2026-10-07-empire-glory.svg)
 
 ## 零、全书的一句话定位
 
