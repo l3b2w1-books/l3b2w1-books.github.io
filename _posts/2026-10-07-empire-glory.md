@@ -18,6 +18,8 @@ tags:
 
 ---
 
+![完整时间线](https://raw.githubusercontent.com/l3b2w1-books/l3b2w1-books.github.io/master/img/2026-10-07-empire-glory.svg)
+
 ## 零、全书的一句话定位
 
 序章把 1592 年六月十七日明军千人渡鸭绿江定义为"亚洲命运的十字路口"：

@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="471pt" height="6880pt" viewBox="0 0 471 6880">
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+<path d="M0,0 L10,5 L0,10 z" fill="#6B7785"/></marker>
+<marker id="arb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+<path d="M0,0 L10,5 L0,10 z" fill="#455A64"/></marker>
+</defs>
+<rect width="100%%" height="100%%" fill="white"/>
+<text x="235.4" y="24" text-anchor="middle" font-family="Microsoft YaHei" font-size="15" font-weight="bold" fill="#1F2328">《帝国最后的荣耀》壬辰—丁酉战争时间线</text>
+<text x="235.4" y="42" text-anchor="middle" font-family="Microsoft YaHei" font-size="11" fill="#57606a">1590 — 1599　｜　实线＝时间推进　虚线＝人物关联　橙＝战役　蓝＝政略　黄＝人物</text>
+<rect x="8.0" y="52.0" width="454.8" height="484.2" rx="10" fill="#F7F9FB" stroke="#B0BEC5" stroke-width="1.1"/>
+<text x="18.0" y="67.0" font-family="Microsoft YaHei" font-size="12.5" fill="#37474F">① 战前暗流 1590—1592.02（情报·决策）</text>
+<rect x="8.0" y="556.2" width="454.8" height="544.5" rx="10" fill="#F7F9FB" stroke="#B0BEC5" stroke-width="1.1"/>
+<text x="18.0" y="571.2" font-family="Microsoft YaHei" font-size="12.5" fill="#37474F">② 壬辰闪击 1592.04—06（朝鲜溃败）</text>
+<rect x="8.0" y="1120.6" width="454.8" height="330.9" rx="10" fill="#F7F9FB" stroke="#B0BEC5" stroke-width="1.1"/>
+<text x="18.0" y="1135.6" font-family="Microsoft YaHei" font-size="12.5" fill="#37474F">③ 明军初入 1592.06—08（首次平壤之败）</text>
+<rect x="8.0" y="1471.5" width="454.8" height="314.6" rx="10" fill="#F7F9FB" stroke="#B0BEC5" stroke-width="1.1"/>
+<text x="18.0" y="1486.5" font-family="Microsoft YaHei" font-size="12.5" fill="#37474F">④ 海上与义军战线 1592.05—08（与②③同期并行）</text>
+<rect x="8.0" y="1806.1" width="454.8" height="577.1" rx="10" fill="#F7F9FB" stroke="#B0BEC5" stroke-width="1.1"/>
+<text x="18.0" y="1821.1" font-family="Microsoft YaHei" font-size="12.5" fill="#37474F">⑤ 议和与廷议 1592.08—12（明廷决策）</text>
+<rect x="8.0" y="2403.2" width="454.8" height="391.2" rx="10" fill="#F7F9FB" stroke="#B0BEC5" stroke-width="1.1"/>
+<text x="18.0" y="2418.2" font-family="Microsoft YaHei" font-size="12.5" fill="#37474F">⑥ 平壤大捷 1592.12—1593.02</text>
+<rect x="8.0" y="2814.4" width="454.8" height="391.2" rx="10" fill="#F7F9FB" stroke="#B0BEC5" stroke-width="1.1"/>
+<text x="18.0" y="2829.4" font-family="Microsoft YaHei" font-size="12.5" fill="#37474F">⑦ 碧蹄馆·幸州 1593.01—02（相持转折）</text>
+<rect x="8.0" y="3225.6" width="454.8" height="621.1" rx="10" fill="#F7F9FB" stroke="#B0BEC5" stroke-width="1.1"/>
+<text x="18.0" y="3240.6" font-family="Microsoft YaHei" font-size="12.5" fill="#37474F">⑧ 议和与第一次撤兵 1593.03—09</text>
+<rect x="8.0" y="3866.7" width="454.8" height="467.8" rx="10" fill="#F7F9FB" stroke="#B0BEC5" stroke-width="1.1"/>
+<text x="18.0" y="3881.7" font-family="Microsoft YaHei" font-size="12.5" fill="#37474F">⑨ 东亚第一骗局 1593.12—1597.03（册封闹剧）</text>
+<rect x="8.0" y="4354.6" width="454.8" height="544.5" rx="10" fill="#F7F9FB" stroke="#B0BEC5" stroke-width="1.1"/>
+<text x="18.0" y="4369.6" font-family="Microsoft YaHei" font-size="12.5" fill="#37474F">⑩ 丁酉再乱 1597.01—09（日军再侵）</text>
+<rect x="8.0" y="4919.0" width="454.8" height="237.9" rx="10" fill="#F7F9FB" stroke="#B0BEC5" stroke-width="1.1"/>
+<text x="18.0" y="4934.0" font-family="Microsoft YaHei" font-size="12.5" fill="#37474F">⑪ 转折 1597.09—10（稷山·鸣梁）</text>
+<rect x="8.0" y="5177.0" width="454.8" height="391.2" rx="10" fill="#F7F9FB" stroke="#B0BEC5" stroke-width="1.1"/>
+<text x="18.0" y="5192.0" font-family="Microsoft YaHei" font-size="12.5" fill="#37474F">⑫ 蔚山血战 1597.11—1598.01</text>
+<rect x="8.0" y="5588.2" width="454.8" height="391.2" rx="10" fill="#F7F9FB" stroke="#B0BEC5" stroke-width="1.1"/>
+<text x="18.0" y="5603.2" font-family="Microsoft YaHei" font-size="12.5" fill="#37474F">⑬ 大增兵 1598.02—09（四路进剿）</text>
+<rect x="8.0" y="5999.4" width="454.8" height="467.8" rx="10" fill="#F7F9FB" stroke="#B0BEC5" stroke-width="1.1"/>
+<text x="18.0" y="6014.4" font-family="Microsoft YaHei" font-size="12.5" fill="#37474F">⑭ 终战 1598.09—12（泗川·倭桥·露梁）</text>
+<rect x="8.0" y="6487.2" width="454.8" height="347.2" rx="10" fill="#F7F9FB" stroke="#B0BEC5" stroke-width="1.1"/>
+<text x="18.0" y="6502.2" font-family="Microsoft YaHei" font-size="12.5" fill="#37474F">⑮ 终章 1598—1599（平倭诏与影响）</text>
+<line x1="178.2" y1="99.3" x2="194.2" y2="99.3" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="162.0" y1="337.4" x2="178.0" y2="337.4" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="316.8" y1="337.4" x2="332.8" y2="337.4" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="202.2" y1="498.8" x2="218.2" y2="498.8" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="98.1" y1="124.6" x2="98.1" y2="150.6" stroke="#455A64" stroke-width="1.4" marker-end="url(#arb)"/>
+<path d="M98.1,201.3 L98.1,206.3 Q98.1,214.3 90.1,214.3 L103.7,214.3 Q95.7,214.3 95.7,222.3 L95.7,227.3" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M95.7,277.9 L95.7,282.9 Q95.7,290.9 87.7,290.9 L98.0,290.9 Q90.0,290.9 90.0,298.9 L90.0,303.9" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M392.8,362.7 L392.8,371.8 Q392.8,379.8 384.8,379.8 L94.4,379.8 Q86.4,379.8 86.4,387.8 L86.4,396.9" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M86.4,447.5 L86.4,452.5 Q86.4,460.5 94.4,460.5 L102.1,460.5 Q110.1,460.5 110.1,468.5 L110.1,473.5" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<line x1="158.4" y1="603.5" x2="174.4" y2="603.5" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="287.9" y1="603.5" x2="303.9" y2="603.5" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="142.2" y1="680.1" x2="158.2" y2="680.1" stroke="#6B7785" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="162.0" y1="833.4" x2="178.0" y2="833.4" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="166.2" y1="910.0" x2="182.2" y2="910.0" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="154.2" y1="986.7" x2="170.2" y2="986.7" stroke="#6B7785" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="126.0" y1="1063.3" x2="142.0" y2="1063.3" stroke="#6B7785" stroke-width="1.2" marker-end="url(#ar)"/>
+<path d="M339.9,628.8 L339.9,633.8 Q339.9,641.8 331.9,641.8 L88.1,641.8 Q80.1,641.8 80.1,649.8 L80.1,654.8" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M209.8,705.4 L209.8,710.4 Q209.8,718.4 201.8,718.4 L88.1,718.4 Q80.1,718.4 80.1,726.4 L80.1,731.4" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M80.1,782.1 L80.1,787.1 Q80.1,795.1 88.1,795.1 L82.0,795.1 Q90.0,795.1 90.0,803.1 L90.0,808.1" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M90.0,858.7 L90.0,863.7 Q90.0,871.7 98.0,871.7 L84.1,871.7 Q92.1,871.7 92.1,879.7 L92.1,884.7" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M92.1,935.4 L92.1,940.4 Q92.1,948.4 84.1,948.4 L94.1,948.4 Q86.1,948.4 86.1,956.4 L86.1,961.4" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M232.3,1012.0 L232.3,1017.0 Q232.3,1025.0 224.3,1025.0 L80.0,1025.0 Q72.0,1025.0 72.0,1033.0 L72.0,1038.0" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<line x1="162.0" y1="1168.0" x2="178.0" y2="1168.0" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="173.0" y1="1244.6" x2="189.0" y2="1244.6" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="150.0" y1="1329.4" x2="166.0" y2="1329.4" stroke="#6B7785" stroke-width="1.2" marker-end="url(#ar)"/>
+<path d="M90.0,1193.3 L90.0,1198.3 Q90.0,1206.3 98.0,1206.3 L87.5,1206.3 Q95.5,1206.3 95.5,1214.3 L95.5,1219.3" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M95.5,1269.9 L95.5,1279.0 Q95.5,1287.0 87.5,1287.0 L92.0,1287.0 Q84.0,1287.0 84.0,1295.0 L84.0,1304.1" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M232.0,1362.9 L232.0,1367.9 Q232.0,1375.9 224.0,1375.9 L104.0,1375.9 Q96.0,1375.9 96.0,1383.9 L96.0,1388.9" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<line x1="166.2" y1="1518.8" x2="182.2" y2="1518.8" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="310.6" y1="1518.8" x2="326.6" y2="1518.8" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="138.0" y1="1595.5" x2="154.0" y2="1595.5" stroke="#6B7785" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="190.2" y1="1748.8" x2="206.2" y2="1748.8" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<path d="M92.1,1544.2 L92.1,1549.2 Q92.1,1557.2 84.1,1557.2 L86.0,1557.2 Q78.0,1557.2 78.0,1565.2 L78.0,1570.2" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M210.1,1620.8 L210.1,1625.8 Q210.1,1633.8 202.1,1633.8 L88.1,1633.8 Q80.1,1633.8 80.1,1641.8 L80.1,1646.8" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M80.1,1697.4 L80.1,1702.4 Q80.1,1710.4 88.1,1710.4 L96.1,1710.4 Q104.1,1710.4 104.1,1718.4 L104.1,1723.4" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<line x1="174.0" y1="1861.6" x2="190.0" y2="1861.6" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="174.0" y1="2176.3" x2="190.0" y2="2176.3" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="150.0" y1="2261.1" x2="166.0" y2="2261.1" stroke="#6B7785" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="150.0" y1="2345.9" x2="166.0" y2="2345.9" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<path d="M96.0,1895.0 L96.0,1900.0 Q96.0,1908.0 88.0,1908.0 L92.0,1908.0 Q84.0,1908.0 84.0,1916.0 L84.0,1921.0" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M84.0,1971.7 L84.0,1976.7 Q84.0,1984.7 92.0,1984.7 L90.1,1984.7 Q98.1,1984.7 98.1,1992.7 L98.1,1997.7" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<line x1="98.1" y1="2048.3" x2="98.1" y2="2074.3" stroke="#455A64" stroke-width="1.4" marker-end="url(#arb)"/>
+<path d="M98.1,2125.0 L98.1,2130.0 Q98.1,2138.0 90.1,2138.0 L104.0,2138.0 Q96.0,2138.0 96.0,2146.0 L96.0,2151.0" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M96.0,2201.6 L96.0,2210.7 Q96.0,2218.7 88.0,2218.7 L92.0,2218.7 Q84.0,2218.7 84.0,2226.7 L84.0,2235.8" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M226.0,2294.6 L226.0,2299.6 Q226.0,2307.6 218.0,2307.6 L92.0,2307.6 Q84.0,2307.6 84.0,2315.6 L84.0,2320.6" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<line x1="190.2" y1="2450.5" x2="206.2" y2="2450.5" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="154.2" y1="2680.4" x2="170.2" y2="2680.4" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="274.0" y1="2680.4" x2="290.0" y2="2680.4" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<path d="M104.1,2475.8 L104.1,2480.8 Q104.1,2488.8 96.1,2488.8 L86.0,2488.8 Q78.0,2488.8 78.0,2496.8 L78.0,2501.8" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M78.0,2552.5 L78.0,2557.5 Q78.0,2565.5 86.0,2565.5 L84.1,2565.5 Q92.1,2565.5 92.1,2573.5 L92.1,2578.5" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M92.1,2629.1 L92.1,2634.1 Q92.1,2642.1 84.1,2642.1 L94.1,2642.1 Q86.1,2642.1 86.1,2650.1 L86.1,2655.1" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M350.0,2705.8 L350.0,2710.8 Q350.0,2718.8 342.0,2718.8 L88.1,2718.8 Q80.1,2718.8 80.1,2726.8 L80.1,2731.8" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<line x1="174.0" y1="2861.7" x2="190.0" y2="2861.7" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<path d="M96.0,2887.0 L96.0,2892.0 Q96.0,2900.0 104.0,2900.0 L90.1,2900.0 Q98.1,2900.0 98.1,2908.0 L98.1,2913.0" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M98.1,2963.7 L98.1,2968.7 Q98.1,2976.7 90.1,2976.7 L100.1,2976.7 Q92.1,2976.7 92.1,2984.7 L92.1,2989.7" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M92.1,3040.3 L92.1,3045.3 Q92.1,3053.3 100.1,3053.3 L90.1,3053.3 Q98.1,3053.3 98.1,3061.3 L98.1,3066.3" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M98.1,3117.0 L98.1,3122.0 Q98.1,3130.0 106.1,3130.0 L94.0,3130.0 Q102.0,3130.0 102.0,3138.0 L102.0,3143.0" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<line x1="138.0" y1="3502.8" x2="154.0" y2="3502.8" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<path d="M98.1,3298.2 L98.1,3303.2 Q98.1,3311.2 90.1,3311.2 L94.1,3311.2 Q86.1,3311.2 86.1,3319.2 L86.1,3324.2" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M86.1,3374.9 L86.1,3379.9 Q86.1,3387.9 94.1,3387.9 L84.1,3387.9 Q92.1,3387.9 92.1,3395.9 L92.1,3400.9" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M92.1,3451.5 L92.1,3456.5 Q92.1,3464.5 84.1,3464.5 L86.0,3464.5 Q78.0,3464.5 78.0,3472.5 L78.0,3477.5" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M78.0,3528.2 L78.0,3533.2 Q78.0,3541.2 86.0,3541.2 L108.1,3541.2 Q116.1,3541.2 116.1,3549.2 L116.1,3554.2" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M116.1,3604.8 L116.1,3609.8 Q116.1,3617.8 108.1,3617.8 L88.1,3617.8 Q80.1,3617.8 80.1,3625.8 L80.1,3630.8" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M80.1,3681.4 L80.1,3686.4 Q80.1,3694.4 88.1,3694.4 L84.1,3694.4 Q92.1,3694.4 92.1,3702.4 L92.1,3707.4" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M92.1,3758.1 L92.1,3763.1 Q92.1,3771.1 100.1,3771.1 L102.1,3771.1 Q110.1,3771.1 110.1,3779.1 L110.1,3784.1" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<line x1="138.0" y1="3914.0" x2="154.0" y2="3914.0" stroke="#6B7785" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="190.2" y1="3990.7" x2="206.2" y2="3990.7" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<path d="M220.0,3939.4 L220.0,3944.4 Q220.0,3952.4 212.0,3952.4 L112.1,3952.4 Q104.1,3952.4 104.1,3960.4 L104.1,3965.4" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M104.1,4016.0 L104.1,4021.0 Q104.1,4029.0 96.1,4029.0 L92.0,4029.0 Q84.0,4029.0 84.0,4037.0 L84.0,4042.0" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M84.0,4092.6 L84.0,4097.6 Q84.0,4105.6 92.0,4105.6 L96.1,4105.6 Q104.1,4105.6 104.1,4113.6 L104.1,4118.6" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M104.1,4169.3 L104.1,4174.3 Q104.1,4182.3 96.1,4182.3 L100.1,4182.3 Q92.1,4182.3 92.1,4190.3 L92.1,4195.3" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M92.1,4245.9 L92.1,4250.9 Q92.1,4258.9 100.1,4258.9 L104.2,4258.9 Q112.2,4258.9 112.2,4266.9 L112.2,4271.9" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<line x1="166.2" y1="4708.4" x2="182.2" y2="4708.4" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="162.0" y1="4861.7" x2="178.0" y2="4861.7" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="98.1" y1="4427.2" x2="98.1" y2="4453.2" stroke="#455A64" stroke-width="1.4" marker-end="url(#arb)"/>
+<line x1="98.1" y1="4503.8" x2="98.1" y2="4529.8" stroke="#455A64" stroke-width="1.4" marker-end="url(#arb)"/>
+<path d="M98.1,4580.5 L98.1,4585.5 Q98.1,4593.5 90.1,4593.5 L98.0,4593.5 Q90.0,4593.5 90.0,4601.5 L90.0,4606.5" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M90.0,4657.1 L90.0,4662.1 Q90.0,4670.1 98.0,4670.1 L84.1,4670.1 Q92.1,4670.1 92.1,4678.1 L92.1,4683.1" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M92.1,4733.8 L92.1,4738.8 Q92.1,4746.8 84.1,4746.8 L94.1,4746.8 Q86.1,4746.8 86.1,4754.8 L86.1,4759.8" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M86.1,4810.4 L86.1,4815.4 Q86.1,4823.4 94.1,4823.4 L82.0,4823.4 Q90.0,4823.4 90.0,4831.4 L90.0,4836.4" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<line x1="178.2" y1="4966.4" x2="194.2" y2="4966.4" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<path d="M98.1,4991.7 L98.1,4996.7 Q98.1,5004.7 90.1,5004.7 L94.1,5004.7 Q86.1,5004.7 86.1,5012.7 L86.1,5017.7" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M86.1,5068.3 L86.1,5073.3 Q86.1,5081.3 94.1,5081.3 L100.0,5081.3 Q108.0,5081.3 108.0,5089.3 L108.0,5094.3" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<line x1="166.2" y1="5224.3" x2="182.2" y2="5224.3" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="92.1" y1="5249.6" x2="92.1" y2="5275.6" stroke="#455A64" stroke-width="1.4" marker-end="url(#arb)"/>
+<path d="M92.1,5326.2 L92.1,5331.2 Q92.1,5339.2 84.1,5339.2 L92.0,5339.2 Q84.0,5339.2 84.0,5347.2 L84.0,5352.2" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M84.0,5402.9 L84.0,5407.9 Q84.0,5415.9 92.0,5415.9 L96.1,5415.9 Q104.1,5415.9 104.1,5423.9 L104.1,5428.9" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M104.1,5479.5 L104.1,5484.5 Q104.1,5492.5 96.1,5492.5 L106.1,5492.5 Q98.1,5492.5 98.1,5500.5 L98.1,5505.5" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<line x1="190.2" y1="5788.8" x2="206.2" y2="5788.8" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="166.2" y1="5865.4" x2="182.2" y2="5865.4" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="182.4" y1="5942.0" x2="198.4" y2="5942.0" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<path d="M122.1,5660.8 L122.1,5665.8 Q122.1,5673.8 114.1,5673.8 L100.1,5673.8 Q92.1,5673.8 92.1,5681.8 L92.1,5686.8" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M92.1,5737.4 L92.1,5742.4 Q92.1,5750.4 100.1,5750.4 L96.1,5750.4 Q104.1,5750.4 104.1,5758.4 L104.1,5763.4" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M104.1,5814.1 L104.1,5819.1 Q104.1,5827.1 96.1,5827.1 L100.1,5827.1 Q92.1,5827.1 92.1,5835.1 L92.1,5840.1" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M92.1,5890.7 L92.1,5895.7 Q92.1,5903.7 100.1,5903.7 L92.2,5903.7 Q100.2,5903.7 100.2,5911.7 L100.2,5916.7" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<line x1="162.0" y1="6200.0" x2="178.0" y2="6200.0" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="194.4" y1="6353.2" x2="210.4" y2="6353.2" stroke="#C9A227" stroke-width="1.2" stroke-dasharray="4,3"/>
+<path d="M92.1,6072.0 L92.1,6077.0 Q92.1,6085.0 100.1,6085.0 L96.1,6085.0 Q104.1,6085.0 104.1,6093.0 L104.1,6098.0" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M104.1,6148.6 L104.1,6153.6 Q104.1,6161.6 96.1,6161.6 L98.0,6161.6 Q90.0,6161.6 90.0,6169.6 L90.0,6174.6" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M90.0,6225.3 L90.0,6230.3 Q90.0,6238.3 98.0,6238.3 L84.1,6238.3 Q92.1,6238.3 92.1,6246.3 L92.1,6251.3" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M92.1,6301.9 L92.1,6306.9 Q92.1,6314.9 100.1,6314.9 L98.2,6314.9 Q106.2,6314.9 106.2,6322.9 L106.2,6327.9" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M106.2,6378.6 L106.2,6383.6 Q106.2,6391.6 98.2,6391.6 L104.0,6391.6 Q96.0,6391.6 96.0,6399.6 L96.0,6404.6" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M104.1,6559.8 L104.1,6564.8 Q104.1,6572.8 96.1,6572.8 L107.5,6572.8 Q99.5,6572.8 99.5,6580.8 L99.5,6585.8" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<line x1="99.5" y1="6636.5" x2="98.1" y2="6662.5" stroke="#455A64" stroke-width="1.4" marker-end="url(#arb)"/>
+<path d="M98.1,6729.4 L98.1,6734.4 Q98.1,6742.4 106.1,6742.4 L96.1,6742.4 Q104.1,6742.4 104.1,6750.4 L104.1,6755.4" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M110.1,524.2 L110.1,543.2 Q110.1,551.2 102.1,551.2 L96.2,551.2 Q88.2,551.2 88.2,559.2 L88.2,578.2" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M196.0,1088.6 L196.0,1107.6 Q196.0,1115.6 188.0,1115.6 L98.0,1115.6 Q90.0,1115.6 90.0,1123.6 L90.0,1142.6" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M96.0,1439.5 L96.0,1458.5 Q96.0,1466.5 88.0,1466.5 L100.1,1466.5 Q92.1,1466.5 92.1,1474.5 L92.1,1493.5" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M104.1,1774.1 L104.1,1793.1 Q104.1,1801.1 96.1,1801.1 L104.0,1801.1 Q96.0,1801.1 96.0,1809.1 L96.0,1828.1" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M84.0,2371.2 L84.0,2390.2 Q84.0,2398.2 92.0,2398.2 L96.1,2398.2 Q104.1,2398.2 104.1,2406.2 L104.1,2425.2" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M80.1,2782.4 L80.1,2801.4 Q80.1,2809.4 88.1,2809.4 L88.0,2809.4 Q96.0,2809.4 96.0,2817.4 L96.0,2836.4" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M102.0,3193.6 L102.0,3212.6 Q102.0,3220.6 94.0,3220.6 L106.1,3220.6 Q98.1,3220.6 98.1,3228.6 L98.1,3247.6" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M110.1,3834.7 L110.1,3853.7 Q110.1,3861.7 102.1,3861.7 L86.0,3861.7 Q78.0,3861.7 78.0,3869.7 L78.0,3888.7" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M112.2,4322.6 L112.2,4341.6 Q112.2,4349.6 104.2,4349.6 L106.1,4349.6 Q98.1,4349.6 98.1,4357.6 L98.1,4376.6" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M90.0,4887.0 L90.0,4906.0 Q90.0,4914.0 98.0,4914.0 L90.1,4914.0 Q98.1,4914.0 98.1,4922.0 L98.1,4941.0" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M108.0,5145.0 L108.0,5164.0 Q108.0,5172.0 100.0,5172.0 L100.1,5172.0 Q92.1,5172.0 92.1,5180.0 L92.1,5199.0" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M98.1,5556.2 L98.1,5575.2 Q98.1,5583.2 106.1,5583.2 L114.1,5583.2 Q122.1,5583.2 122.1,5591.2 L122.1,5610.2" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M100.2,5967.4 L100.2,5986.4 Q100.2,5994.4 92.2,5994.4 L100.1,5994.4 Q92.1,5994.4 92.1,6002.4 L92.1,6021.4" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<path d="M96.0,6455.2 L96.0,6474.2 Q96.0,6482.2 104.0,6482.2 L96.1,6482.2 Q104.1,6482.2 104.1,6490.2 L104.1,6509.2" fill="none" stroke="#455A64" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#arb)"/>
+<rect x="18.0" y="74.0" width="160.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="98.1" y="95.5" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="98.1" dy="0.00">1590 万历十八年</tspan>
+<tspan x="98.1" dy="16.32">小田原城陷·秀吉统一日本</tspan>
+</text>
+<ellipse cx="236.0" cy="99.3" rx="41.8" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="236.0" y="96.0" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="236.0" dy="0.00">丰臣秀吉</tspan>
+<tspan x="236.0" dy="14.28">日本太阁</tspan>
+</text>
+<rect x="18.0" y="150.6" width="160.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="98.1" y="172.1" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="98.1" dy="0.00">1590.04—1591春</tspan>
+<tspan x="98.1" dy="16.32">朝鲜通信使赴日·归国告警</tspan>
+</text>
+<rect x="18.0" y="227.3" width="155.4" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="95.7" y="248.8" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="95.7" dy="0.00">1591.12.28 天正十九年</tspan>
+<tspan x="95.7" dy="16.32">秀吉辞关白·秀次继任</tspan>
+</text>
+<rect x="18.0" y="303.9" width="144.0" height="67.0" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="90.0" y="325.4" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="90.0" dy="0.00">1591 万历十九年</tspan>
+<tspan x="90.0" dy="16.32">在日情报网报警</tspan>
+<tspan x="90.0" dy="16.32">预告壬辰三月一日出兵</tspan>
+</text>
+<ellipse cx="247.4" cy="337.4" rx="69.4" ry="30.4" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="247.4" y="326.9" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="247.4" dy="0.00">许仪后·郭国安</tspan>
+<tspan x="247.4" dy="14.28">朱均旺·陈申·苏八</tspan>
+<tspan x="247.4" dy="14.28">在日情报网</tspan>
+</text>
+<rect x="332.8" y="312.1" width="120.0" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="392.8" y="333.6" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="392.8" dy="0.00">1591.07.20</tspan>
+<tspan x="392.8" dy="16.32">许国呈递两份警报</tspan>
+</text>
+<rect x="18.0" y="396.9" width="136.8" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="86.4" y="418.4" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="86.4" dy="0.00">1592.01.16—02.28</tspan>
+<tspan x="86.4" dy="16.32">林绍歧携情报返福建</tspan>
+</text>
+<rect x="18.0" y="473.5" width="184.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="110.1" y="495.0" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="110.1" dy="0.00">1592.02 万历二十年</tspan>
+<tspan x="110.1" dy="16.32">兵部议朝鲜自征·大明不欲用兵</tspan>
+</text>
+<ellipse cx="260.0" cy="498.8" rx="41.8" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="260.0" y="495.5" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="260.0" dy="0.00">石星</tspan>
+<tspan x="260.0" dy="14.28">兵部尚书</tspan>
+</text>
+<rect x="18.0" y="578.2" width="140.4" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="88.2" y="599.6" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="88.2" dy="0.00">1592.04.13</tspan>
+<tspan x="88.2" dy="16.32">釜山·西平·多大浦陷落</tspan>
+</text>
+<ellipse cx="231.1" cy="603.5" rx="56.7" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="231.1" y="600.1" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="231.1" dy="0.00">小西行长</tspan>
+<tspan x="231.1" dy="14.28">日军第一军团</tspan>
+</text>
+<rect x="303.9" y="578.2" width="72.0" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="339.9" y="599.6" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="339.9" dy="0.00">04.15</tspan>
+<tspan x="339.9" dy="16.32">东莱之战</tspan>
+</text>
+<rect x="18.0" y="654.8" width="124.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="80.1" y="676.3" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="80.1" dy="0.00">04.17</tspan>
+<tspan x="80.1" dy="16.32">鹊桥血战·密阳失陷</tspan>
+</text>
+<rect x="158.2" y="654.8" width="103.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="209.8" y="676.3" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="209.8" dy="0.00">04.23—04.25</tspan>
+<tspan x="209.8" dy="16.32">大邱·尚州之战</tspan>
+</text>
+<rect x="18.0" y="731.4" width="124.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="80.1" y="752.9" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="80.1" dy="0.00">04.28</tspan>
+<tspan x="80.1" dy="16.32">忠州之战·申砬败亡</tspan>
+</text>
+<rect x="18.0" y="808.1" width="144.0" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="90.0" y="829.6" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="90.0" dy="0.00">05.02—05.03</tspan>
+<tspan x="90.0" dy="16.32">日军入汉城（二十日）</tspan>
+</text>
+<ellipse cx="234.7" cy="833.4" rx="56.7" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="234.7" y="830.0" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="234.7" dy="0.00">加藤清正</tspan>
+<tspan x="234.7" dy="14.28">日军第二军团</tspan>
+</text>
+<rect x="18.0" y="884.7" width="148.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="92.1" y="906.2" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="92.1" dy="0.00">04.30</tspan>
+<tspan x="92.1" dy="16.32">忠州败报到京·李昖出逃</tspan>
+</text>
+<ellipse cx="224.0" cy="910.0" rx="41.8" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="224.0" y="906.7" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="224.0" dy="0.00">李昖</tspan>
+<tspan x="224.0" dy="14.28">朝鲜宣祖</tspan>
+</text>
+<rect x="18.0" y="961.4" width="136.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="86.1" y="982.8" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="86.1" dy="0.00">05.17</tspan>
+<tspan x="86.1" dy="16.32">临津江之战·朝军大败</tspan>
+</text>
+<rect x="170.2" y="961.4" width="124.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="232.3" y="982.8" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="232.3" dy="0.00">05.19</tspan>
+<tspan x="232.3" dy="16.32">平壤会议·定议内附</tspan>
+</text>
+<rect x="18.0" y="1038.0" width="108.0" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="72.0" y="1059.5" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="72.0" dy="0.00">06.11</tspan>
+<tspan x="72.0" dy="16.32">日军跨过大同江</tspan>
+</text>
+<rect x="142.0" y="1038.0" width="108.0" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="196.0" y="1059.5" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="196.0" dy="0.00">06.14</tspan>
+<tspan x="196.0" dy="16.32">李昖弃平壤北走</tspan>
+</text>
+<rect x="18.0" y="1142.6" width="144.0" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="90.0" y="1164.1" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="90.0" dy="0.00">1592.06.02</tspan>
+<tspan x="90.0" dy="16.32">万历下谕辽东发兵援朝</tspan>
+</text>
+<ellipse cx="212.4" cy="1168.0" rx="34.4" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="212.4" y="1164.6" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="212.4" dy="0.00">万历帝</tspan>
+<tspan x="212.4" dy="14.28">明神宗</tspan>
+</text>
+<rect x="18.0" y="1219.3" width="155.0" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="95.5" y="1240.8" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="95.5" dy="0.00">06.15 / 06.17 / 06.19</tspan>
+<tspan x="95.5" dy="16.32">三批明军渡鸭绿江</tspan>
+</text>
+<ellipse cx="238.3" cy="1244.6" rx="49.3" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="238.3" y="1241.2" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="238.3" dy="0.00">祖承训</tspan>
+<tspan x="238.3" dy="14.28">辽东副总兵</tspan>
+</text>
+<rect x="18.0" y="1304.1" width="132.0" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="84.0" y="1325.6" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="84.0" dy="0.00">06.24</tspan>
+<tspan x="84.0" dy="16.32">李昖抵义州会合明军</tspan>
+</text>
+<rect x="166.0" y="1295.9" width="132.0" height="67.0" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="232.0" y="1317.4" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="232.0" dy="0.00">07.17</tspan>
+<tspan x="232.0" dy="16.32">明军袭平壤中伏大败</tspan>
+<tspan x="232.0" dy="16.32">史儒·戴朝弁阵亡</tspan>
+</text>
+<rect x="18.0" y="1388.9" width="156.0" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="96.0" y="1410.4" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="96.0" dy="0.00">08.01</tspan>
+<tspan x="96.0" dy="16.32">朝鲜军独立反攻平壤失败</tspan>
+</text>
+<rect x="18.0" y="1493.5" width="148.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="92.1" y="1515.0" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="92.1" dy="0.00">1592.05.07</tspan>
+<tspan x="92.1" dy="16.32">全罗·庆尚联合舰队开拔</tspan>
+</text>
+<ellipse cx="246.4" cy="1518.8" rx="64.2" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="246.4" y="1515.5" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="246.4" dy="0.00">李舜臣</tspan>
+<tspan x="246.4" dy="14.28">全罗道水军左使</tspan>
+</text>
+<ellipse cx="375.8" cy="1518.8" rx="49.3" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="375.8" y="1515.5" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="375.8" dy="0.00">元均</tspan>
+<tspan x="375.8" dy="14.28">庆尚道水使</tspan>
+</text>
+<rect x="18.0" y="1570.2" width="120.0" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="78.0" y="1591.6" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="78.0" dy="0.00">05.29</tspan>
+<tspan x="78.0" dy="16.32">李舜臣赴露梁会合</tspan>
+</text>
+<rect x="154.0" y="1570.2" width="112.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="210.1" y="1591.6" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="210.1" dy="0.00">06.04—06.06</tspan>
+<tspan x="210.1" dy="16.32">唐浦·唐项浦海战</tspan>
+</text>
+<rect x="18.0" y="1646.8" width="124.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="80.1" y="1668.3" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="80.1" dy="0.00">07.08—07.11</tspan>
+<tspan x="80.1" dy="16.32">闲山岛·安骨浦大捷</tspan>
+</text>
+<rect x="18.0" y="1723.4" width="172.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="104.1" y="1744.9" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="104.1" dy="0.00">07.08</tspan>
+<tspan x="104.1" dy="16.32">梨峙之战·权慄阻日军入全罗</tspan>
+</text>
+<ellipse cx="262.9" cy="1748.8" rx="56.7" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="262.9" y="1745.4" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="262.9" dy="0.00">权慄</tspan>
+<tspan x="262.9" dy="14.28">全罗道巡察使</tspan>
+</text>
+<rect x="18.0" y="1828.1" width="156.0" height="67.0" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="96.0" y="1849.6" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="96.0" dy="0.00">1592.08.17—08.29</tspan>
+<tspan x="96.0" dy="16.32">沈惟敬赴平壤会小西行长</tspan>
+<tspan x="96.0" dy="16.32">约五十日内回复</tspan>
+</text>
+<ellipse cx="231.8" cy="1861.6" rx="41.8" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="231.8" y="1858.2" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="231.8" dy="0.00">沈惟敬</tspan>
+<tspan x="231.8" dy="14.28">谈判代表</tspan>
+</text>
+<rect x="18.0" y="1921.0" width="132.0" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="84.0" y="1942.5" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="84.0" dy="0.00">09.03</tspan>
+<tspan x="84.0" dy="16.32">行人薛藩持谕抵义州</tspan>
+</text>
+<rect x="18.0" y="1997.7" width="160.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="98.1" y="2019.2" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="98.1" dy="0.00">09.19—09.28</tspan>
+<tspan x="98.1" dy="16.32">郑昆寿赴京请兵·石星私宴</tspan>
+</text>
+<rect x="18.0" y="2074.3" width="160.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="98.1" y="2095.8" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="98.1" dy="0.00">10.02 / 10.05</tspan>
+<tspan x="98.1" dy="16.32">石星两请廷议·朝议多反对</tspan>
+</text>
+<rect x="18.0" y="2151.0" width="156.0" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="96.0" y="2172.4" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="96.0" dy="0.00">08.13</tspan>
+<tspan x="96.0" dy="16.32">石星调宋应昌入兵部筹办</tspan>
+</text>
+<ellipse cx="224.4" cy="2176.3" rx="34.4" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="224.4" y="2172.9" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="224.4" dy="0.00">宋应昌</tspan>
+<tspan x="224.4" dy="14.28">经略</tspan>
+</text>
+<rect x="18.0" y="2235.8" width="132.0" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="84.0" y="2257.2" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="84.0" dy="0.00">11.15—11.17</tspan>
+<tspan x="84.0" dy="16.32">沈惟敬再渡江抵义州</tspan>
+</text>
+<rect x="166.0" y="2227.6" width="120.0" height="67.0" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="226.0" y="2249.1" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="226.0" dy="0.00">12.17</tspan>
+<tspan x="226.0" dy="16.32">明廷定计大举援朝</tspan>
+<tspan x="226.0" dy="16.32">约次年正月册封</tspan>
+</text>
+<rect x="18.0" y="2320.6" width="132.0" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="84.0" y="2342.0" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="84.0" dy="0.00">08.10</tspan>
+<tspan x="84.0" dy="16.32">努尔哈赤上奏请入朝</tspan>
+</text>
+<ellipse cx="230.2" cy="2345.9" rx="64.2" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="230.2" y="2342.5" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="230.2" dy="0.00">努尔哈赤</tspan>
+<tspan x="230.2" dy="14.28">建州卫都督佥事</tspan>
+</text>
+<rect x="18.0" y="2425.2" width="172.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="104.1" y="2446.7" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="104.1" dy="0.00">1592.12.08—12.25</tspan>
+<tspan x="104.1" dy="16.32">李如松抵辽东·率四万至义州</tspan>
+</text>
+<ellipse cx="240.6" cy="2450.5" rx="34.4" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="240.6" y="2447.2" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="240.6" dy="0.00">李如松</tspan>
+<tspan x="240.6" dy="14.28">提督</tspan>
+</text>
+<rect x="18.0" y="2501.8" width="120.0" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="78.0" y="2523.3" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="78.0" dy="0.00">1593.01.03</tspan>
+<tspan x="78.0" dy="16.32">安州集结四万三千</tspan>
+</text>
+<rect x="18.0" y="2578.5" width="148.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="92.1" y="2600.0" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="92.1" dy="0.00">01.07</tspan>
+<tspan x="92.1" dy="16.32">平壤战启·夜袭李如柏营</tspan>
+</text>
+<rect x="18.0" y="2655.1" width="136.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="86.1" y="2676.6" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="86.1" dy="0.00">01.08</tspan>
+<tspan x="86.1" dy="16.32">总攻克平壤·火焚全城</tspan>
+</text>
+<ellipse cx="222.1" cy="2680.4" rx="51.9" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="222.1" y="2677.1" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="222.1" dy="0.00">吴惟忠</tspan>
+<tspan x="222.1" dy="14.28">浙兵·戚家军</tspan>
+</text>
+<rect x="290.0" y="2655.1" width="120.0" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="350.0" y="2676.6" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="350.0" dy="0.00">01.17</tspan>
+<tspan x="350.0" dy="16.32">小西行长退返汉城</tspan>
+</text>
+<rect x="18.0" y="2731.8" width="124.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="80.1" y="2753.2" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="80.1" dy="0.00">01.20—01.25</tspan>
+<tspan x="80.1" dy="16.32">收复开城·明军南下</tspan>
+</text>
+<rect x="18.0" y="2836.4" width="156.0" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="96.0" y="2857.9" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="96.0" dy="0.00">1593.01.26</tspan>
+<tspan x="96.0" dy="16.32">李如松抵坡州遣前锋三千</tspan>
+</text>
+<ellipse cx="231.8" cy="2861.7" rx="41.8" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="231.8" y="2858.4" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="231.8" dy="0.00">查大受</tspan>
+<tspan x="231.8" dy="14.28">前锋将领</tspan>
+</text>
+<rect x="18.0" y="2913.0" width="160.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="98.1" y="2934.5" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="98.1" dy="0.00">01.27</tspan>
+<tspan x="98.1" dy="16.32">碧蹄馆之战·中日主力碰撞</tspan>
+</text>
+<rect x="18.0" y="2989.7" width="148.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="92.1" y="3011.2" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="92.1" dy="0.00">01.28</tspan>
+<tspan x="92.1" dy="16.32">明军退坡州·主帅转主和</tspan>
+</text>
+<rect x="18.0" y="3066.3" width="160.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="98.1" y="3087.8" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="98.1" dy="0.00">02.12</tspan>
+<tspan x="98.1" dy="16.32">幸州山城之战·权慄拒日军</tspan>
+</text>
+<rect x="18.0" y="3143.0" width="168.0" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="102.0" y="3164.4" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="102.0" dy="0.00">02.17—02.29</tspan>
+<tspan x="102.0" dy="16.32">加藤清正自咸镜道撤返汉城</tspan>
+</text>
+<rect x="18.0" y="3247.6" width="160.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="98.1" y="3269.1" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="98.1" dy="0.00">1593.03.04—03.08</tspan>
+<tspan x="98.1" dy="16.32">沈惟敬抵平壤·龙山仓会谈</tspan>
+</text>
+<rect x="18.0" y="3324.2" width="136.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="86.1" y="3345.7" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="86.1" dy="0.00">03.26</tspan>
+<tspan x="86.1" dy="16.32">沈惟敬·内藤如安赴日</tspan>
+</text>
+<rect x="18.0" y="3400.9" width="148.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="92.1" y="3422.4" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="92.1" dy="0.00">04.18—04.20</tspan>
+<tspan x="92.1" dy="16.32">日军退出汉城·汉城收复</tspan>
+</text>
+<rect x="18.0" y="3477.5" width="120.0" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="78.0" y="3499.0" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="78.0" dy="0.00">04.02—04.03</tspan>
+<tspan x="78.0" dy="16.32">刘綎川军渡江入朝</tspan>
+</text>
+<ellipse cx="195.8" cy="3502.8" rx="41.8" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="195.8" y="3499.5" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="195.8" dy="0.00">刘綎</tspan>
+<tspan x="195.8" dy="14.28">川军主将</tspan>
+</text>
+<rect x="18.0" y="3554.2" width="196.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="116.1" y="3575.6" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="116.1" dy="0.00">05.16—05.22</tspan>
+<tspan x="116.1" dy="16.32">明使抵名护屋·秀吉以降臣礼接见</tspan>
+</text>
+<rect x="18.0" y="3630.8" width="124.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="80.1" y="3652.3" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="80.1" dy="0.00">06.21—06.29</tspan>
+<tspan x="80.1" dy="16.32">晋州围城九日·城陷</tspan>
+</text>
+<rect x="18.0" y="3707.4" width="148.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="92.1" y="3728.9" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="92.1" dy="0.00">08.03—08.05</tspan>
+<tspan x="92.1" dy="16.32">秀赖出生·秀吉下撤退令</tspan>
+</text>
+<rect x="18.0" y="3784.1" width="184.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="110.1" y="3805.6" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="110.1" dy="0.00">08.14—09.12</tspan>
+<tspan x="110.1" dy="16.32">李如松撤还辽东·留兵一万六千</tspan>
+</text>
+<rect x="18.0" y="3888.7" width="120.0" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="78.0" y="3910.2" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="78.0" dy="0.00">1593.12.21</tspan>
+<tspan x="78.0" dy="16.32">伪造《关白降表》</tspan>
+</text>
+<rect x="154.0" y="3888.7" width="132.0" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="220.0" y="3910.2" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="220.0" dy="0.00">1594.12.11</tspan>
+<tspan x="220.0" dy="16.32">内藤如安午门见万历</tspan>
+</text>
+<rect x="18.0" y="3965.4" width="172.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="104.1" y="3986.8" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="104.1" dy="0.00">1595.01.30 万历二十三年</tspan>
+<tspan x="104.1" dy="16.32">册封团成立：李宗诚·杨方亨</tspan>
+</text>
+<ellipse cx="265.5" cy="3990.7" rx="59.3" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="265.5" y="3987.3" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="265.5" dy="0.00">李宗诚·杨方亨</tspan>
+<tspan x="265.5" dy="14.28">册封正副使</tspan>
+</text>
+<rect x="18.0" y="4042.0" width="132.0" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="84.0" y="4063.5" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="84.0" dy="0.00">1596.04.03</tspan>
+<tspan x="84.0" dy="16.32">正使李宗诚弃印夜逃</tspan>
+</text>
+<rect x="18.0" y="4118.6" width="172.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="104.1" y="4140.1" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="104.1" dy="0.00">1596.06.15—09.02</tspan>
+<tspan x="104.1" dy="16.32">使团赴伏见·大阪城册封闹剧</tspan>
+</text>
+<rect x="18.0" y="4195.3" width="148.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="92.1" y="4216.8" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="92.1" dy="0.00">1597.01</tspan>
+<tspan x="92.1" dy="16.32">册封失败·历时两年归国</tspan>
+</text>
+<rect x="18.0" y="4271.9" width="188.4" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="112.2" y="4293.4" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="112.2" dy="0.00">1597.03</tspan>
+<tspan x="112.2" dy="16.32">九卿会审·石星倒台·沈惟敬获罪</tspan>
+</text>
+<rect x="18.0" y="4376.6" width="160.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="98.1" y="4398.0" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="98.1" dy="0.00">1597.01.13—01.14</tspan>
+<tspan x="98.1" dy="16.32">加藤清正机张登陆·陷梁山</tspan>
+</text>
+<rect x="18.0" y="4453.2" width="160.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="98.1" y="4474.7" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="98.1" dy="0.00">02.22</tspan>
+<tspan x="98.1" dy="16.32">秀吉总动员·日军陆续渡海</tspan>
+</text>
+<rect x="18.0" y="4529.8" width="160.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="98.1" y="4551.3" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="98.1" dy="0.00">07.15—07.16</tspan>
+<tspan x="98.1" dy="16.32">漆川梁海战·朝鲜水军覆没</tspan>
+</text>
+<rect x="18.0" y="4606.5" width="144.0" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="90.0" y="4628.0" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="90.0" dy="0.00">1597.07后</tspan>
+<tspan x="90.0" dy="16.32">李舜臣白衣复出掌水师</tspan>
+</text>
+<rect x="18.0" y="4683.1" width="148.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="92.1" y="4704.6" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="92.1" dy="0.00">08.09—08.17</tspan>
+<tspan x="92.1" dy="16.32">南原之战·杨元孤军失守</tspan>
+</text>
+<ellipse cx="224.0" cy="4708.4" rx="41.8" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="224.0" y="4705.1" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="224.0" dy="0.00">杨元</tspan>
+<tspan x="224.0" dy="14.28">南原守将</tspan>
+</text>
+<rect x="18.0" y="4759.8" width="136.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="86.1" y="4781.2" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="86.1" dy="0.00">08.19—08.25</tspan>
+<tspan x="86.1" dy="16.32">日军合兵占全州·屠城</tspan>
+</text>
+<rect x="18.0" y="4836.4" width="144.0" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="90.0" y="4857.9" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="90.0" dy="0.00">09.03</tspan>
+<tspan x="90.0" dy="16.32">杨镐单骑入汉城定人心</tspan>
+</text>
+<ellipse cx="204.9" cy="4861.7" rx="26.9" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="204.9" y="4858.4" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="204.9" dy="0.00">杨镐</tspan>
+<tspan x="204.9" dy="14.28">经理</tspan>
+</text>
+<rect x="18.0" y="4941.0" width="160.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="98.1" y="4962.5" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="98.1" dy="0.00">1597.09.07</tspan>
+<tspan x="98.1" dy="16.32">稷山之战·明骑破黑田长政</tspan>
+</text>
+<ellipse cx="236.0" cy="4966.4" rx="41.8" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="236.0" y="4963.0" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="236.0" dy="0.00">麻贵</tspan>
+<tspan x="236.0" dy="14.28">东路主将</tspan>
+</text>
+<rect x="18.0" y="5017.7" width="136.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="86.1" y="5039.2" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="86.1" dy="0.00">09.16</tspan>
+<tspan x="86.1" dy="16.32">鸣梁海战·十三艘破敌</tspan>
+</text>
+<rect x="18.0" y="5094.3" width="180.0" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="108.0" y="5115.8" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="108.0" dy="0.00">10.08</tspan>
+<tspan x="108.0" dy="16.32">日军退守顺天—蔚山沿海倭城</tspan>
+</text>
+<rect x="18.0" y="5199.0" width="148.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="92.1" y="5220.4" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="92.1" dy="0.00">1597.11.10—11.29</tspan>
+<tspan x="92.1" dy="16.32">邢玠令三道进剿·抵汉城</tspan>
+</text>
+<ellipse cx="209.1" cy="5224.3" rx="26.9" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="209.1" y="5220.9" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="209.1" dy="0.00">邢玠</tspan>
+<tspan x="209.1" dy="14.28">总督</tspan>
+</text>
+<rect x="18.0" y="5275.6" width="148.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="92.1" y="5297.1" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="92.1" dy="0.00">12.20—12.22</tspan>
+<tspan x="92.1" dy="16.32">明军抵庆州·彦阳遭遇战</tspan>
+</text>
+<rect x="18.0" y="5352.2" width="132.0" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="84.0" y="5373.7" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="84.0" dy="0.00">12.25—12.26</tspan>
+<tspan x="84.0" dy="16.32">第二次强攻岛山倭城</tspan>
+</text>
+<rect x="18.0" y="5428.9" width="172.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="104.1" y="5450.4" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="104.1" dy="0.00">1598.01</tspan>
+<tspan x="104.1" dy="16.32">久攻不下·蔚山之战以退兵终</tspan>
+</text>
+<rect x="18.0" y="5505.5" width="160.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="98.1" y="5527.0" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="98.1" dy="0.00">1598.01起</tspan>
+<tspan x="98.1" dy="16.32">丁应泰弹劾杨镐·明军停顿</tspan>
+</text>
+<rect x="18.0" y="5610.2" width="208.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="122.1" y="5631.6" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="122.1" dy="0.00">1598.02起</tspan>
+<tspan x="122.1" dy="16.32">蓝方威四千浙兵·王国栋三千骑入朝</tspan>
+</text>
+<rect x="18.0" y="5686.8" width="148.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="92.1" y="5708.3" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="92.1" dy="0.00">04.29</tspan>
+<tspan x="92.1" dy="16.32">邢玠·杨镐定四路进攻策</tspan>
+</text>
+<rect x="18.0" y="5763.4" width="172.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="104.1" y="5784.9" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="104.1" dy="0.00">05.16—07.26</tspan>
+<tspan x="104.1" dy="16.32">陈璘广东水师抵朝·进全罗道</tspan>
+</text>
+<ellipse cx="248.0" cy="5788.8" rx="41.8" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="248.0" y="5785.4" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="248.0" dy="0.00">陈璘</tspan>
+<tspan x="248.0" dy="14.28">大明水师</tspan>
+</text>
+<rect x="18.0" y="5840.1" width="148.2" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="92.1" y="5861.6" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="92.1" dy="0.00">08.18—08.27</tspan>
+<tspan x="92.1" dy="16.32">秀吉卒·四大老签撤军令</tspan>
+</text>
+<ellipse cx="256.4" cy="5865.4" rx="74.2" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="256.4" y="5862.0" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="256.4" dy="0.00">德川家康·前田利家</tspan>
+<tspan x="256.4" dy="14.28">五大老</tspan>
+</text>
+<rect x="18.0" y="5916.7" width="164.4" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="100.2" y="5938.2" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="100.2" dy="0.00">09月中旬</tspan>
+<tspan x="100.2" dy="16.32">四路并进：蔚山·泗川·顺天</tspan>
+</text>
+<ellipse cx="240.2" cy="5942.0" rx="41.8" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="240.2" y="5938.7" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="240.2" dy="0.00">董一元</tspan>
+<tspan x="240.2" dy="14.28">中路主将</tspan>
+</text>
+<rect x="18.0" y="6021.4" width="148.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="92.1" y="6042.8" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="92.1" dy="0.00">09.19—10.01</tspan>
+<tspan x="92.1" dy="16.32">泗川之战·中路董一元军</tspan>
+</text>
+<rect x="18.0" y="6098.0" width="172.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="104.1" y="6119.5" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="104.1" dy="0.00">09.20—10.11</tspan>
+<tspan x="104.1" dy="16.32">倭桥（顺天）·刘綎攻城不克</tspan>
+</text>
+<rect x="18.0" y="6174.6" width="144.0" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="90.0" y="6196.1" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="90.0" dy="0.00">10.13</tspan>
+<tspan x="90.0" dy="16.32">间谍郭国安劝岛津撤兵</tspan>
+</text>
+<ellipse cx="227.3" cy="6200.0" rx="49.3" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="227.3" y="6196.6" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="227.3" dy="0.00">岛津义弘</tspan>
+<tspan x="227.3" dy="14.28">撤退总指挥</tspan>
+</text>
+<rect x="18.0" y="6251.3" width="148.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="92.1" y="6272.8" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="92.1" dy="0.00">11.16—11.18</tspan>
+<tspan x="92.1" dy="16.32">岛津弃泗川·加藤退岛山</tspan>
+</text>
+<rect x="18.0" y="6327.9" width="176.4" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="106.2" y="6349.4" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="106.2" dy="0.00">11.19</tspan>
+<tspan x="106.2" dy="16.32">露梁海战·李舜臣·邓子龙阵亡</tspan>
+</text>
+<ellipse cx="252.2" cy="6353.2" rx="41.8" ry="23.3" fill="#FFF5D6" stroke="#B08A2E" stroke-width="1.2"/>
+<text x="252.2" y="6349.9" text-anchor="middle" font-family="Microsoft YaHei" font-size="10.5" fill="#1F2328">
+<tspan x="252.2" dy="0.00">邓子龙</tspan>
+<tspan x="252.2" dy="14.28">水师副将</tspan>
+</text>
+<rect x="18.0" y="6404.6" width="156.0" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="96.0" y="6426.0" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="96.0" dy="0.00">11.20—12.11</tspan>
+<tspan x="96.0" dy="16.32">日军残部撤离釜山返博多</tspan>
+</text>
+<rect x="18.0" y="6509.2" width="172.2" height="50.6" rx="7" fill="#FBE3D6" stroke="#FBE3D6" stroke-width="1.2"/>
+<text x="104.1" y="6530.7" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="104.1" dy="0.00">1598.04—07</tspan>
+<tspan x="104.1" dy="16.32">陈璘搜剿残倭·斩首一千一百</tspan>
+</text>
+<rect x="18.0" y="6585.8" width="163.1" height="50.6" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="99.5" y="6607.3" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="99.5" dy="0.00">1599 万历二十七年闰四月</tspan>
+<tspan x="99.5" dy="16.32">平倭诏告天下</tspan>
+</text>
+<rect x="18.0" y="6662.5" width="160.2" height="67.0" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="98.1" y="6684.0" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="98.1" dy="0.00">战争结算</tspan>
+<tspan x="98.1" dy="16.32">七年·累计动员二十二万余</tspan>
+<tspan x="98.1" dy="16.32">耗银八百八十三万余两</tspan>
+</text>
+<rect x="18.0" y="6755.4" width="172.2" height="67.0" rx="7" fill="#E2ECF9" stroke="#E2ECF9" stroke-width="1.2"/>
+<text x="104.1" y="6776.9" text-anchor="middle" font-family="Microsoft YaHei" font-size="12.0" fill="#1F2328">
+<tspan x="104.1" dy="0.00">后续影响</tspan>
+<tspan x="104.1" dy="16.32">德川家康取天下·日本锁国</tspan>
+<tspan x="104.1" dy="16.32">朝鲜复国·明军后丧于萨尔浒</tspan>
+</text>
+</svg>
