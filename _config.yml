@@ -98,14 +98,4 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "log",
-        href: "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/"
-    },{
-        title: "kernel",
-        href: "https://www.kernel.org"
-    },{
-        title: "IBM",
-        href: "https://www.ibm.com/developerworks/cn/linux/"
-    }
 ]
