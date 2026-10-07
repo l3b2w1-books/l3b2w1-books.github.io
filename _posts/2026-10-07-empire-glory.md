@@ -18,7 +18,7 @@ tags:
 
 ---
 
-![完整时间线](https://raw.githubusercontent.com/l3b2w1-books/l3b2w1-books.github.io/master/img/2026-10-07-empire-glory.svg)
+![完整时间线](https://raw.githubusercontent.com/l3b2w1-books/l3b2w1-books.github.io/main/img/2026-10-07-empire-glory.svg)
 
 ## 零、全书的一句话定位
 
