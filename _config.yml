@@ -32,6 +32,9 @@ github_username:    l3b2w1
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
 paginate: 10
+# GitHub Pages 以 UTC 构建，而东八区的"今天"在 08:00 之前仍属 UTC 的"昨天"，
+# 若不打开此项，当天写的文章会被 Jekyll 默认的 future:false 过滤掉、线上 404。
+future: true
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
