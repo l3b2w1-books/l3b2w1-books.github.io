@@ -2,7 +2,7 @@
 layout:     post
 title:      浮生六记
 subtitle:   Six Chapters of Floating Life
-date:       2026-10-11
+date:       2026-10-10
 author:     icecube
 header-img: img/bluelinux.jpg
 catalog: true
