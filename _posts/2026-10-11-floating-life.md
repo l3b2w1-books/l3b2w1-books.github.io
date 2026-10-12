@@ -7,7 +7,7 @@ author:     icecube
 header-img: img/bluelinux.jpg
 catalog: true
 tags:
-    - history
+    - literature
 ---
 
 # 《浮生六记》
