@@ -1,13 +1,13 @@
----  
-layout:     post  
-title:      从乞丐到元首  
-subtitle:   约翰·托兰《Adolf Hitler: The Definitive Biography》
-date:       2026-10-11  
-author:     icecube  
-header-img: img/bluelinux.jpg  
-catalog: true  
-tags:  
-    - culture  
+---
+layout:     post
+title:      从乞丐到元首
+subtitle:   "约翰·托兰《Adolf Hitler: The Definitive Biography》"
+date:       2026-10-11
+author:     icecube
+header-img: img/bluelinux.jpg
+catalog: true
+tags:
+    - culture
 ---
 
 # 《从乞丐到元首》
