@@ -1,13 +1,13 @@
----  
-layout:     post  
-title:      我也有一个梦想  
-subtitle:   林达·近距离看美国之三  
+---
+layout:     post
+title:      我也有一个梦想
+subtitle:   林达·近距离看美国之三
 date:       2026-10-14
-author:     icecube  
-header-img: img/bluelinux.jpg  
-catalog: true  
-tags:  
-    - politics  
+author:     icecube
+header-img: img/bluelinux.jpg
+catalog: true
+tags:
+    - politics
 ---
 
 # 《我也有一个梦想》
