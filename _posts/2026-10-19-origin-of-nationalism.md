@@ -2,7 +2,7 @@
 layout:     post
 title:      民族主义的由来
 subtitle:   The origin of nationalism
-date:       2026-10-10
+date:       2026-10-19
 author:     icecube
 header-img: img/bluelinux.jpg
 catalog: true
