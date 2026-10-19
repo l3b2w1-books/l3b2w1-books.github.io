@@ -10,8 +10,6 @@ tags:
     - science
 ---
 
-# 《精子战争》
-
 > 作者：罗宾·贝克（Robin Baker）｜原书：*Sperm Wars: Infidelity, Sexual Conflict, and Other Bedroom Battles*  
 > 译者：李沛沂、章蓓蕾  
 > 完整版·全 11 章 37 场景
