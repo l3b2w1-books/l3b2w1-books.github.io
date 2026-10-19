@@ -19,6 +19,8 @@ tags:
 
 ---
 
+[视频链接](https://www.youtube.com/watch?v=USVMDDBkvcw)
+
 ## 一、为什么现在才能聊这个话题
 
 李嘉诚的公司把巴拿马运河上面的港务资源卖给了美国。  
